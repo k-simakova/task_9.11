@@ -1,0 +1,11 @@
+.card {
+    background-color: #FFE5A2;
+    border: thick double #604A87;
+    font-family:'Courier New', Courier, monospace;
+    font-size:x-large;
+}
+
+.card-header {
+    border-width: 2px;
+    background-color: #FFD055;
+}
